@@ -1,0 +1,70 @@
+body {
+  min-width: 1000px;
+  margin: 0px;
+  padding: 0px;
+  font-family: "NATS", sans-serif;
+  line-height: normal;
+  color: #ffffff;
+  background: #000000;
+  text-align: center;
+  text-decoration: none;
+}
+
+p {
+font-weight: bold;
+line-height: 4px;
+padding: 0px;
+}
+
+hr {
+  margin-top: 70px;
+  height: 0px;
+}
+
+.heading {
+  font-size: 82px;
+  color: inherit;
+  text-align: center;
+  line-height: 10px;
+}
+
+.fon {
+align: center;
+margin-top: 40px;
+border-radius: 10px;
+}
+
+.hero-name {
+font-weight: 300;
+line-height: 16px;
+
+}
+
+.buttons {
+max-width: inherit;
+padding-top: 50px;
+}
+
+.about-me {
+margin: 20px;
+}
+
+.works {
+margin: 20px;
+}
+
+.page-footer {
+min-width: inherit;
+}
+
+.vk {
+margin: 20px;
+}
+
+.insta {
+margin: 20px;
+}
+
+.email {
+margin: 20px;
+}
