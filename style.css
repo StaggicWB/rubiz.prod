@@ -1,5 +1,5 @@
 body {
-  min-width: 1000px;
+  max-width: auto;
   margin: 0px;
   padding: 0px;
   font-family: "NATS", sans-serif;
