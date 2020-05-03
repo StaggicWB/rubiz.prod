@@ -1,0 +1,39 @@
+body {
+  align-self: center;
+  padding: 0px;
+  font-family: "NATS", sans-serif;
+  line-height: normal;
+  color: #ffffff;
+  background: #000000;
+  text-align: center;
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 70px;
+  height: 0px;
+}
+
+button {
+  padding: 15px;
+  border: none;
+  background-color: inherit;
+  align-self: center;
+}
+
+.hero {
+  height: 418px;
+  width: 1000px;
+}
+
+.heading {
+  font-size: 82px;
+  color: inherit;
+  text-align: center;
+  line-height: 10px;
+}
+
+.goback {
+  height: 50px;
+  width: 50px;
+}
