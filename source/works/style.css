@@ -55,3 +55,8 @@ img {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
+.author {
+  line-height: 10px;
+  font-size: 10px;
+}

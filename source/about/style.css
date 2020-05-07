@@ -38,3 +38,8 @@ button {
   height: 100px;
   width: 100px;
 }
+
+.author {
+  line-height: 10px;
+  font-size: 10px;
+}
